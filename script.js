@@ -65,7 +65,7 @@ const loadQuiz = () => {
   d_text.innerText = currentQuizData.d;
 };
 
-//Loading the quiz
+//Loading the quizz
 loadQuiz();
 
 //Trigger that checks the validity of the answer
